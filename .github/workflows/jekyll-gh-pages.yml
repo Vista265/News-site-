@@ -1,0 +1,64 @@
+meta:
+  charset: "UTF-8"
+  viewport: "width=device-width, initial-scale=1.0"
+title: "Developer Portfolio"
+styles:
+  body:
+    font-family: "Arial, sans-serif"
+    margin: 0
+    padding: 0
+    background-color: "#f4f4f4"
+  header:
+    background-color: "#333"
+    color: "#fff"
+    padding: "20px"
+    text-align: "center"
+  nav:
+    background-color: "#444"
+    padding: "10px"
+    text-align: "center"
+  nav_a:
+    color: "#fff"
+    text-decoration: "none"
+    margin: "0 10px"
+  section:
+    padding: "20px"
+  footer:
+    background-color: "#333"
+    color: "#fff"
+    text-align: "center"
+    padding: "10px 0"
+    position: "fixed"
+    bottom: 0
+    width: "100%"
+  project:
+    margin-bottom: "20px"
+    padding: "10px"
+    border: "1px solid #ccc"
+    border-radius: "5px"
+    background-color: "#fff"
+  project_h3:
+    margin-top: 0
+content:
+  header: "Developer Portfolio"
+  nav:
+    - "Home"
+    - "Projects"
+    - "About"
+    - "Contact"
+  sections:
+    - name: "About Me"
+      content: "Welcome to my portfolio! I'm a passionate developer with expertise in Python and HTML."
+    - name: "Projects"
+      projects:
+        - name: "Project 1"
+          description: "Description of Project 1..."
+        - name: "Project 2"
+          description: "Description of Project 2..."
+        - name: "Project 3"
+          description: "Description of Project 3..."
+    - name: "Skills"
+      skills:
+        - "Python"
+        - "HTML"
+  footer: "&copy; 2024 Developer Portfolio"
