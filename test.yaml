@@ -51,12 +51,10 @@ content:
       content: "Welcome to my portfolio! I'm a passionate developer with expertise in Python and HTML."
     - name: "Projects"
       projects:
-        - name: "Project 1"
-          description: "Description of Project 1..."
-        - name: "Project 2"
-          description: "Description of Project 2..."
-        - name: "Project 3"
-          description: "Description of Project 3..."
+        - name: "8 days to die"
+          description: "This is a game and a lancher it is not open source"
+        - name: "Notepad"
+          description: "Experiance the wonderful way to use a notepad using .vis, .py, .txt formats while having encription for the .vis."
     - name: "Skills"
       skills:
         - "Python"
