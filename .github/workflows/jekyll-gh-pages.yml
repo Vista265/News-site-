@@ -51,12 +51,10 @@ content:
       content: "Welcome to my portfolio! I'm a passionate developer with expertise in Python and HTML."
     - name: "Projects"
       projects:
-        - name: "Project 1"
-          description: "Description of Project 1..."
-        - name: "Project 2"
-          description: "Description of Project 2..."
-        - name: "Project 3"
-          description: "Description of Project 3..."
+        - name: "Project Os"
+          description: "An os that is built in python"
+        - name: "Notepad"
+          description: "Can encript stuff in a .vis if you don't want to encript your file that you created, you can use .txt for the delelopers you can use .py"
     - name: "Skills"
       skills:
         - "Python"
